@@ -111,8 +111,8 @@
 | 6 (3-for-a-while) | For, While, Do-While | 更多 `for` 例子、`while` 与 `do-while` 语句、`break` | 请**务必**讲解 `selection sort` 与 `binary search` (这周与下周两周内); 请自学 `continue` | 6.1、6.2、6.4、6.5 |
 | 7 (4-loops) | Loops; Multi-dimensional Arrays | More examples on loops; 二维数组 | *建议*讲解 Conway's Game of Life; 请**务必**讲解 `Merge sort` 中的 `merge` 过程 | 8.2、8.3 |
 | 8 (5-function) | Function; Scopes | 函数的概念与使用; 作用域与程序结构 | 9.7 内容可选, 或许会录制短视频讲解 | 9.1 -- 9.5、10.1 -- 10.5 |
-| 9 (6-recursion) | Recursion | 递归的概念与举例 | *建议*介绍 `merge-sort`; 本节内容不作过多要求 | 9.6 |
-| 10 (7-data-types) | Data Types | 基本数据类型; 与数据类型相关的安全编程 | 介绍 Undefined Behaviors (最迟在此次课介绍) | 7.1 -- 7.6 |
+| 9 (6-data-types) | Data Types | 基本数据类型; 与数据类型相关的安全编程 | 介绍 Undefined Behaviors (最迟在此次课介绍) | 7.1 -- 7.6 |
+| 10 (7-recursion) | Recursion | 递归的概念与举例 | *建议*介绍 `merge-sort`; 本节内容不作过多要求 | 9.6 |
 
 ## 授课方式
 
