@@ -112,7 +112,13 @@
 | 7 (4-loops) | Loops; Multi-dimensional Arrays | More examples on loops; 二维数组 | *建议*讲解 Conway's Game of Life; 请**务必**讲解 `Merge sort` 中的 `merge` 过程 | 8.2、8.3 |
 | 8 (5-function) | Function; Scopes | 函数的概念与使用; 作用域与程序结构 | 9.7 内容可选, 或许会录制短视频讲解 | 9.1 -- 9.5、10.1 -- 10.5 |
 | 9 (6-data-types) | Data Types | 基本数据类型; 与数据类型相关的安全编程 | 介绍 Undefined Behaviors (最迟在此次课介绍) | 7.1 -- 7.6 |
-| 10 (7-recursion) | Recursion | 递归的概念与举例 | *建议*介绍 `merge-sort`; 本节内容不作过多要求 | 9.6 |
+| 10/11 (7-pointers-arrays) | Pointers | 指针的基本概念，指针与一维数组，动态内存分配 | | 11.1 -- 11.5；12.1 -- 12.3；17.1 -- 17.4 |
+| 12 (8-pointers-cstrings) | Pointers and C Strings | 指针与字符串 | | 12.4；13.1 -- 13.6 |
+| 13 (9-double-pointers) | Double Pointers | 指针与字符串数组、命令行参数、指针与二维数组 | | 12.4；13.7；17.6 |
+| 14 (10-function-pointers) | Function Pointers | 函数指针、如何解读声明语句 | | 17.7; 18.4 |
+| 15 (11-struct) | Struct; Union; Enum | 结构体、联合体、枚举类型 | 软件学院 16.4 节自学;  | 16.1 -- 16.5; 17.9 |
+| 16 (12-linkedlists) | Linked Lists | 链表 | | 17.5; 19.4 |
+| 17 (13-recursion) | Recursion | 递归的概念与举例 | *建议*介绍 `merge-sort`; 本节内容不作过多要求 | 9.6 |
 
 ## 授课方式
 
